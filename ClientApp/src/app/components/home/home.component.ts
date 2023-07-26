@@ -1,6 +1,5 @@
 // =============================
-// Email: info@ebenmonney.com
-// www.ebenmonney.com/templates
+// home 
 // =============================
 
 import { Component } from '@angular/core';
